@@ -1,4 +1,4 @@
-package com.cydeo.tightly_coupled;
+package com.ideen.tightly_coupled;
 
 public class Mentor {
 

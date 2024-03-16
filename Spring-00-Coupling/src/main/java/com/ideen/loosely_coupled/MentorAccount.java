@@ -1,4 +1,4 @@
-package com.cydeo.loosely_coupled;
+package com.ideen.loosely_coupled;
 
 public class MentorAccount {
     Mentor mentor;

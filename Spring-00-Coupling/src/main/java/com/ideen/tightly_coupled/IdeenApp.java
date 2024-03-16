@@ -1,6 +1,6 @@
-package com.cydeo.tightly_coupled;
+package com.ideen.tightly_coupled;
 
-public class CydeoApp {
+public class IdeenApp {
     public static void main(String[] args) {
 
         FullTimeMentor fullTime = new FullTimeMentor();
