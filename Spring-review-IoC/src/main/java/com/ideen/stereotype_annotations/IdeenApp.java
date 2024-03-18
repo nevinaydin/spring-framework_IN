@@ -1,6 +1,7 @@
 package com.ideen.stereotype_annotations;
 
-import com.ideen.bean_practice.ConfigApp;
+
+import com.ideen.stereotype_annotations.config.ConfigApp;
 import com.ideen.stereotype_annotations.model.DataStructure;
 import com.ideen.stereotype_annotations.model.ExtraHours;
 import com.ideen.stereotype_annotations.model.MicroService;

@@ -1,6 +1,6 @@
 package com.ideen.stereotype_annotations.model;
 
-import lombok.Data;
+
 import org.springframework.stereotype.Component;
 
 
